@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Maxim, a intern python developer 👨‍💻 I study from March 2024 🤓</div>  
   
